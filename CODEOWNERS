@@ -1,3 +1,9 @@
-# Comment line immediately above ownership line is reserved for related other information. Please be careful while editing.
+# These owners will be the default owners for everything in the repo.
+* @austinxu87
+* @srijan-bansal
+#ECCN:Open Source 5D002
+
+<!-- # Comment line immediately above ownership line is reserved for related other information. Please be careful while editing.
 #ECCN:Open Source
 #GUSINFO:Open Source,Open Source Workflow
+ -->

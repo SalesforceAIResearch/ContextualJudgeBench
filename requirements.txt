@@ -1,0 +1,10 @@
+datasets==3.3.2
+numpy==1.26.3
+peft>=0.9.0
+protobuf<=3.20.2
+safetensors>=0.3.3
+scipy
+transformers==4.49.0
+tqdm==4.67.1
+typing_extensions==4.12.2
+vllm==0.7.3
