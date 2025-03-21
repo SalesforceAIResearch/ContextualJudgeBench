@@ -1,5 +1,5 @@
 # Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings
-This is the codebase for [Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings](TODO). 
+This is the codebase for [Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings](https://arxiv.org/abs/2503.15620). 
 
 [Huggingface Dataset](https://huggingface.co/datasets/Salesforce/ContextualJudgeBench)
 
@@ -79,5 +79,13 @@ This release is for research purposes only in support of an academic paper. Our 
 If you find our project helpful, please consider citing our paper
 
 ```
-Coming soon :) 
+@misc{xu2025doescontextmattercontextualjudgebench,
+      title={Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings}, 
+      author={Austin Xu and Srijan Bansal and Yifei Ming and Semih Yavuz and Shafiq Joty},
+      year={2025},
+      eprint={2503.15620},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.15620}, 
+}
 ```
